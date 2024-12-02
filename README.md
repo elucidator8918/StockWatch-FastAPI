@@ -1,3 +1,2 @@
-# StockWatch: AI-Based Stock Recommendation with Integrated Risk Analysis Framework
-
+# StockWatch-FastAPI
 Winner Solution of Bajaj HackRx 4.0 2023 Hackathon
