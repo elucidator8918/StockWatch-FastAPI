@@ -3,7 +3,6 @@ import Navbar from "../components/Navbar";
 import Statement from "../components/Statement";
 import Stats from "../components/Stats";
 import Slide1 from "../components/Slide1";
-import { Footer } from "../components/Footer";
 
 export default function Landing() {
   return (
