@@ -16,7 +16,6 @@ export default function Landing() {
           <Slide1 />
         </div>
       </div>
-      <Footer />
     </div>
   );
 }
