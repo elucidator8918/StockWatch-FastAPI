@@ -8,7 +8,6 @@ import News from "../components/News";
 import { useNavigate } from "react-router-dom";
 import StockCarousel2 from "../components/StockCarousel2";
 import axios from "axios";
-import { Footer } from "../components/Footer";
 
 export default function Watchlist() {
   const [showWatchlist, setShowWatchlist] = useState(false);
@@ -133,7 +132,6 @@ export default function Watchlist() {
           </div>
         </div>
       </div>
-      <Footer />
     </div>
   );
 }
